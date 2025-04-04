@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\pc\Desktop\TvApi</_PublishTargetUrl>
+    <History>True|2022-03-11T16:56:09.8138640Z;True|2022-03-11T18:50:33.7404029+02:00;True|2022-03-11T18:24:13.0396679+02:00;True|2022-03-11T18:23:15.3296193+02:00;True|2022-03-11T17:36:12.7566402+02:00;</History>
+  </PropertyGroup>
+</Project>
